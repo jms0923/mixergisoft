@@ -1702,7 +1702,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #c1c1c1;
+  background-color: #ffffff;
 }
 .cid-rxGk7yy49L button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1931,7 +1931,7 @@ body {
 }
 .cid-rxGk7yy49L .nav-link:hover,
 .cid-rxGk7yy49L .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #ff3366 !important;
 }
 .cid-rxGuVLlQZJ {
   padding-top: 30px;
@@ -2180,7 +2180,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #c1c1c1;
+  background-color: #ffffff;
 }
 .cid-rxGk7yy49L button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2409,7 +2409,7 @@ body {
 }
 .cid-rxGk7yy49L .nav-link:hover,
 .cid-rxGk7yy49L .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #ff3366 !important;
 }
 .cid-rxGkwM0sZf {
   background-image: url("../../../assets/images/background4.jpg");
@@ -2459,26 +2459,26 @@ body {
 .cid-rxGmK74ZjR P {
   color: #efefef;
 }
-.cid-rxMPjwh1bg {
+.cid-rxQWZ4elDc {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #232323;
 }
-.cid-rxMPjwh1bg .mbr-section-subtitle {
+.cid-rxQWZ4elDc .mbr-section-subtitle {
   color: #767676;
   text-align: center;
   font-weight: 300;
 }
-.cid-rxMPjwh1bg .timeline-text-content {
+.cid-rxQWZ4elDc .timeline-text-content {
   padding: 2rem 2.5rem;
   background: #efefef;
   margin-right: 2rem;
   transition: all .4s;
 }
-.cid-rxMPjwh1bg .timeline-text-content p {
+.cid-rxQWZ4elDc .timeline-text-content p {
   margin-bottom: 0;
 }
-.cid-rxMPjwh1bg .timeline-element {
+.cid-rxQWZ4elDc .timeline-element {
   margin-bottom: 50px;
   position: relative;
   word-wrap: break-word;
@@ -2487,19 +2487,19 @@ body {
   flex-direction: row;
   -webkit-flex-direction: row;
 }
-.cid-rxMPjwh1bg .timeline-element:hover .timeline-text-content {
+.cid-rxQWZ4elDc .timeline-element:hover .timeline-text-content {
   box-shadow: 0 7px 20px 0px rgba(0, 0, 0, 0.08);
   transition: all .4s;
 }
-.cid-rxMPjwh1bg .reverse {
+.cid-rxQWZ4elDc .reverse {
   flex-direction: row-reverse;
   -webkit-flex-direction: row-reverse;
 }
-.cid-rxMPjwh1bg .reverse .timeline-text-content {
+.cid-rxQWZ4elDc .reverse .timeline-text-content {
   margin-left: 2rem;
   margin-right: 0;
 }
-.cid-rxMPjwh1bg .iconsBackground {
+.cid-rxQWZ4elDc .iconsBackground {
   position: absolute;
   left: 50%;
   width: 60px;
@@ -2512,7 +2512,7 @@ body {
   top: 20px;
   margin-left: -30px;
 }
-.cid-rxMPjwh1bg .mbr-iconfont {
+.cid-rxQWZ4elDc .mbr-iconfont {
   position: absolute;
   text-align: center;
   font-size: 35px;
@@ -2521,7 +2521,7 @@ body {
   top: 13px;
   left: 13px;
 }
-.cid-rxMPjwh1bg .separline:before {
+.cid-rxQWZ4elDc .separline:before {
   top: 20px;
   bottom: 0;
   position: absolute;
@@ -2532,21 +2532,21 @@ body {
   height: calc(100% + 4rem);
 }
 @media (max-width: 768px) {
-  .cid-rxMPjwh1bg .iconsBackground {
+  .cid-rxQWZ4elDc .iconsBackground {
     left: 1.5rem;
   }
-  .cid-rxMPjwh1bg .separline:before {
+  .cid-rxQWZ4elDc .separline:before {
     left: calc(1.5rem - 1px);
   }
-  .cid-rxMPjwh1bg .timeline-text-content {
+  .cid-rxQWZ4elDc .timeline-text-content {
     margin-left: 3rem !important;
     margin-right: 0 !important;
   }
-  .cid-rxMPjwh1bg .reverse .timeline-text-content {
+  .cid-rxQWZ4elDc .reverse .timeline-text-content {
     margin-right: 0 !important;
   }
 }
-.cid-rxMPjwh1bg .mbr-section-title {
+.cid-rxQWZ4elDc .mbr-section-title {
   color: #ffffff;
 }
 .cid-rxGuVLlQZJ {
@@ -2886,7 +2886,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #c1c1c1;
+  background-color: #ffffff;
 }
 .cid-rxGk7yy49L button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3115,7 +3115,7 @@ body {
 }
 .cid-rxGk7yy49L .nav-link:hover,
 .cid-rxGk7yy49L .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #ff3366 !important;
 }
 .cid-rxGuVLlQZJ {
   padding-top: 30px;
@@ -3364,7 +3364,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #c1c1c1;
+  background-color: #ffffff;
 }
 .cid-rxGk7yy49L button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3593,7 +3593,7 @@ body {
 }
 .cid-rxGk7yy49L .nav-link:hover,
 .cid-rxGk7yy49L .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #ff3366 !important;
 }
 .cid-rxMJiXn2VM {
   background-image: url("../../../assets/images/background1.jpg");
